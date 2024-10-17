@@ -1,0 +1,39 @@
+.home-carousel {
+    position: relative;
+    background: url('../img/vecteezy_ai-generated-modern-smart-car-technology-intelligent-system_35270180.jpg') center center repeat;
+    background-size: cover;
+    -webkit-transition: all 0.2s ease-out;
+    -moz-transition: all 0.2s ease-out;
+    transition: all 0.2s ease-out;
+}
+
+.bar.background-image-fixed-2 {
+    background: url('../img/vecteezy_ai-generated-modern-smart-car-technology-intelligent-system_35270180.jpg') center top no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+/* increase default font size used for content */
+body {
+    font-size: 18px;
+}
+
+/* do not underline menu items in nav bar */
+.navbar ul.nav>li>a {
+    text-decoration: none;
+}
+
+#footer div.eclipse-logos #logo-eclipse-foundation {
+    margin: -20px;
+    height: 150px;
+}
+
+.home-carousel h1 {
+    text-transform: none;
+}
+
+
+.home-carousel ul,
+.home-carousel p {
+    text-transform: none;
+}

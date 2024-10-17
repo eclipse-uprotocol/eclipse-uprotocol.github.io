@@ -1,0 +1,7 @@
+weight: 4
+name: "Flexible"
+icon: "fa-solid fa-layer-group"
+url: ""
+description: |
+  uProtocol comes with support for a set of standard transport protocols like **Eclipse Zenoh&trade;**, **MQTT** and **SOME/IP** out of the box.
+  Applications exchange messages by means of **well-defined APIs** which developers can implement to support addtional transports and programming languages.

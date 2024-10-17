@@ -1,0 +1,6 @@
+weight: 2
+name: "Cross Language"
+icon: "fa-solid fa-terminal"
+url: ""
+description: |
+  uProtocol supports implementing service components in multiple programming languages like **Java**, **Rust**, **C++** and **Python**.

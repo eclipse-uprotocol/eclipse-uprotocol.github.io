@@ -1,0 +1,6 @@
+weight: 3
+name: "Cross Platform"
+icon: "fa-solid fa-network-wired"
+url: ""
+description: |
+  uProtocol can be used to connect service components running on arbitrary operating systems and platforms like **Linux**, **Android** and **QNX**.

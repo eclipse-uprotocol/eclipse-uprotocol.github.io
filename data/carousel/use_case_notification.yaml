@@ -1,0 +1,5 @@
+weight: 2
+title: "Notification"
+description: |
+  <p>Send telemetry data to the cloud</p>
+image: "img/use_case_notification.drawio.svg"
