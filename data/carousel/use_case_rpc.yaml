@@ -1,0 +1,5 @@
+weight: 4
+title: "Service Invocation"
+description: >
+  <p>Invoke vehicle functions from mobile apps</p>
+image: "img/use_case_rpc.drawio.svg"

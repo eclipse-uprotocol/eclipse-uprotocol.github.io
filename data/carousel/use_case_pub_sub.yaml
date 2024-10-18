@@ -1,0 +1,5 @@
+weight: 3
+title: "Publish/Subscribe"
+description: >
+  <p>React to status changes in services</p>
+image: "img/use_case_pub_sub.drawio.svg"
