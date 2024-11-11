@@ -7,6 +7,12 @@
     transition: all 0.2s ease-out;
 }
 
+.home-carousel h1,
+.home-carousel ul,
+.home-carousel p {
+    text-transform: none;
+}
+
 .bar.background-image-fixed-2 {
     background: url('../img/vecteezy_ai-generated-modern-smart-car-technology-intelligent-system_35270180.jpg') center top no-repeat;
     background-attachment: fixed;
@@ -23,17 +29,15 @@ body {
     text-decoration: none;
 }
 
+figure.image-with-margin img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
 #footer div.eclipse-logos #logo-eclipse-foundation {
     margin: -20px;
     height: 150px;
-}
-
-.home-carousel h1 {
-    text-transform: none;
-}
-
-
-.home-carousel ul,
-.home-carousel p {
-    text-transform: none;
 }
