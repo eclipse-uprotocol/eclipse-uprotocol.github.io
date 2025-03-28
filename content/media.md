@@ -10,7 +10,7 @@ draft = true
 
 ## Documents
 
-Coming soon
+[uProtocol slide deck](/uProto-what.pdf)
 
 ## Videos
 
