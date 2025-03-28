@@ -9,8 +9,8 @@ defaultContentLanguage = "en"
 # number of words of summarized post content (default 70)
 summaryLength = 70
 
-# Define the number of posts per page
-paginate = 10
+# Define the number of posts per page (this has been deprecated in Hugo v0.128.0)
+# paginate = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
@@ -32,9 +32,14 @@ url = "/motivation/"
 weight = 1
 
 [[menu.main]]
+name = "Docs & Media"
+url = "/media/"
+weight = 2
+
+[[menu.main]]
 name = "Getting Started"
 url = "https://github.com/eclipse-uprotocol#how-to-get-started"
-weight = 2
+weight = 3
 
 #[[menu.main]]
 #name = "Specification"
