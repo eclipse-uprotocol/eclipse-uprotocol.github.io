@@ -1,7 +1,6 @@
 +++
 title = 'Docs & Media'
 date = 2025-03-28T13:46:05+01:00
-draft = true
 +++
 
 ## uProtocol motivation
