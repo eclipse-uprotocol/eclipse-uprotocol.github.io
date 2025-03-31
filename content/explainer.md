@@ -1,7 +1,6 @@
 +++
 title = 'uProtocol Explainer'
 date = 2025-03-28T13:40:45+01:00
-draft = true
 +++
 
 Communication has two important dimensions, no matter whether it involves living beings or technical systems: the message and the medium. Or, in very loose analogy, semantics and syntax.
@@ -32,10 +31,7 @@ One common reaction to a new context of requirements and changing technology pla
 
 The Eclipse Foundation SDV working group has made it it's mission to contribute relevant pieces to the SDV ecosystem, and as such the concerns raised so far are at the heart of the working group. While the working group portfolio is accruing its share of excellent middleware solutions from to eCal to Zenoh, one recent project is setting out to offer an integrative approach that enables systematic and ecosystem-scale combination of specific plumbing into larger-scale solutions. This project is called Eclipse uProtocol&trade;, and has gained substantial contribution activity since it has been initially published by GM in the second half of 2023. The uProtocol&trade; approach aims to do two things differently:
 
-It is not another middleware implementation;
-rather, it offers concepts and abstractions that can facilitate collaboration in existing, complex organizations (that span the whole technology spectrum, as lined out above)
-
-uProtocol&trade; is the glue that can bind together communication domains from mechatronics to cloud, by providing a common approach for bridging between a range of middleware options typically used within those domains. It works to provide ready-made integration components that allow for quick link-up of commonly used transport protocol implementations. It also defines a set of higher-level applications which provide cross-domain integration for common concerns like service discovery, data subscription and digital twin functionality [^6].
+It is not another middleware implementation; rather, it offers concepts and abstractions that can facilitate collaboration in existing, complex organizations (that span the whole technology spectrum, as lined out above). uProtocol&trade; is the glue that can bind together communication domains from mechatronics to cloud, by providing a common approach for bridging between a range of middleware options typically used within those domains. It works to provide ready-made integration components that allow for quick link-up of commonly used transport protocol implementations. It also defines a set of higher-level applications which provide cross-domain integration for common concerns like service discovery, data subscription and digital twin functionality [^6].
 
 To make the uProtocol&trade; value proposition more graspable, let's consider a straightforward feature that is expected of premium vehicles today, which involves at least three very different technology domains: the smartphone vehicle companion app. Looking at contemporary examples, such apps provide a mix of near-live vehicle data display (like geo-location or current driving speed) and remote command execution (like climate control, opening trunk/doors, or managing the charging process).
 

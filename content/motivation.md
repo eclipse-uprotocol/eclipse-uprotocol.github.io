@@ -15,4 +15,15 @@ Eclipse uProtocol&trade; addresses these challenges by providing a small number 
 
 Multiple communication mechanisms have been developed over the years, each solving specific problems: SOME/IP for in-vehicle inter-ECU communication, MQTT for IoT-to-Cloud communication, Linux IPC variants for intra-SoC communication, Binder for Android IPC etc. A connected vehicle system will require multiple of these systems, creating the challenge of bridging them together. Rather than trying to develop yet another, _more universal_ protocol, uProtocol's approach is to _map_ its APIs to existing frameworks, and ensure interoperability across them. This approach enables to use and combine multiple communication frameworks, while ensuring consistent end-to-end communication between software components.
 
+In a provocatively simplified nutshell - if you need service-level communication between different technology stacks, say AUTOSAR® and Android Automotive, you have four options:
+
+* convince AUTOSAR® to switch from SOME/IP to Binder
+* convince Google to switch from Binder to SOME/IP
+* use uProtocol
+* re-invent uProtocol
+
+[Read our more fundamental explainer of the uProtocol vision]({{< relref "explainer.md" >}})
+
+---
+
 **NOTE:** None of these challenges are specific to the automotive sector. Instead, other industries like defense, rail and aviation all face similar issues.
