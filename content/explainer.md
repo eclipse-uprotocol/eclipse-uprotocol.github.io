@@ -62,3 +62,5 @@ To help further this goal, more uProtocol&trade; adapters and bridges to specifi
 [^5]: This is why we have so many standards
 
 [^6]: With this scope it should be clear that uProtocol&trade; is not trying to be the answer to every specialist use case along the way - certain things (e.g. realtime critical communication within one subdomain of a vehicle) are better solved with existing, specialized and localized approaches.
+
+&nbsp;
