@@ -27,3 +27,5 @@ In a provocatively simplified nutshell - if you need service-level communication
 ---
 
 **NOTE:** None of these challenges are specific to the automotive sector. Instead, other industries like defense, rail and aviation all face similar issues.
+
+&nbsp;
