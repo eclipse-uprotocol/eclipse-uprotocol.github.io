@@ -17,7 +17,7 @@ date = 2025-03-28T13:46:05+01:00
 
 ## Blueprints
 
-The [Eclipse SDV Blueprints](https://sdv-blueprints.eclipse.dev) project hosts various showcases of how to build SDV-style solutions using Open Source components. The following blueprints include uProtocol and can be used for instructional and inspirational purposes:
+The [Eclipse SDV Blueprints](https://sdv-blueprints.eclipse.dev) project hosts various showcases of how to build solutions using Eclipse SDV open source components. The following blueprints include uProtocol and can be used for instructional and inspirational purposes:
 
 - [Fleet Management Blueprint](https://github.com/eclipse-sdv-blueprints/fleet-management)
 - [Service-to-Signal Blueprint](https://github.com/eclipse-sdv-blueprints/service-to-signal)
